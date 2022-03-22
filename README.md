@@ -26,4 +26,4 @@ Dataset URL = https://bit.ly/31fkomB
 Dataset Glossary URL = https://bit.ly/3klxdEn
 
 ## Acknowledgements<br />
-The dataset was sourced from Inside Airbnb [(http://insideairbnb.com/get-the-data.html)].
+The dataset was sourced from Inside Airbnb [Link](http://insideairbnb.com/get-the-data.html).
